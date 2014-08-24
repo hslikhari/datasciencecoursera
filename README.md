@@ -1,1 +1,1 @@
-##A repo for I've created for the Data Scientist’s Toolbox course project that I am doing through Coursera.
+##A repo for I've created for the Data Scientist’s Toolbox course project that I am working on through Coursera.
